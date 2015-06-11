@@ -1,0 +1,6 @@
+<project name="make_project" basedir=".." default="build">
+
+<target name="build" depends="clear_cache_dir">
+<echo>cscscscscsscscs</echo>
+</target>
+</project>
